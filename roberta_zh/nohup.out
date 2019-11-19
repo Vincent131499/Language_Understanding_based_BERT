@@ -1,0 +1,66 @@
+D:\Anaconda3\envs\tf14_gpu\lib\site-packages\tensorflow\python\framework\dtypes.py:516: FutureWarning: Passing (type, 1) or '1type' as a synonym of type is deprecated; in a future version of numpy, it will be understood as (type, (1,)) / '(1,)type'.
+  _np_qint8 = np.dtype([("qint8", np.int8, 1)])
+D:\Anaconda3\envs\tf14_gpu\lib\site-packages\tensorflow\python\framework\dtypes.py:517: FutureWarning: Passing (type, 1) or '1type' as a synonym of type is deprecated; in a future version of numpy, it will be understood as (type, (1,)) / '(1,)type'.
+  _np_quint8 = np.dtype([("quint8", np.uint8, 1)])
+D:\Anaconda3\envs\tf14_gpu\lib\site-packages\tensorflow\python\framework\dtypes.py:518: FutureWarning: Passing (type, 1) or '1type' as a synonym of type is deprecated; in a future version of numpy, it will be understood as (type, (1,)) / '(1,)type'.
+  _np_qint16 = np.dtype([("qint16", np.int16, 1)])
+D:\Anaconda3\envs\tf14_gpu\lib\site-packages\tensorflow\python\framework\dtypes.py:519: FutureWarning: Passing (type, 1) or '1type' as a synonym of type is deprecated; in a future version of numpy, it will be understood as (type, (1,)) / '(1,)type'.
+  _np_quint16 = np.dtype([("quint16", np.uint16, 1)])
+D:\Anaconda3\envs\tf14_gpu\lib\site-packages\tensorflow\python\framework\dtypes.py:520: FutureWarning: Passing (type, 1) or '1type' as a synonym of type is deprecated; in a future version of numpy, it will be understood as (type, (1,)) / '(1,)type'.
+  _np_qint32 = np.dtype([("qint32", np.int32, 1)])
+D:\Anaconda3\envs\tf14_gpu\lib\site-packages\tensorflow\python\framework\dtypes.py:525: FutureWarning: Passing (type, 1) or '1type' as a synonym of type is deprecated; in a future version of numpy, it will be understood as (type, (1,)) / '(1,)type'.
+  np_resource = np.dtype([("resource", np.ubyte, 1)])
+D:\Anaconda3\envs\tf14_gpu\lib\site-packages\tensorboard\compat\tensorflow_stub\dtypes.py:541: FutureWarning: Passing (type, 1) or '1type' as a synonym of type is deprecated; in a future version of numpy, it will be understood as (type, (1,)) / '(1,)type'.
+  _np_qint8 = np.dtype([("qint8", np.int8, 1)])
+D:\Anaconda3\envs\tf14_gpu\lib\site-packages\tensorboard\compat\tensorflow_stub\dtypes.py:542: FutureWarning: Passing (type, 1) or '1type' as a synonym of type is deprecated; in a future version of numpy, it will be understood as (type, (1,)) / '(1,)type'.
+  _np_quint8 = np.dtype([("quint8", np.uint8, 1)])
+D:\Anaconda3\envs\tf14_gpu\lib\site-packages\tensorboard\compat\tensorflow_stub\dtypes.py:543: FutureWarning: Passing (type, 1) or '1type' as a synonym of type is deprecated; in a future version of numpy, it will be understood as (type, (1,)) / '(1,)type'.
+  _np_qint16 = np.dtype([("qint16", np.int16, 1)])
+D:\Anaconda3\envs\tf14_gpu\lib\site-packages\tensorboard\compat\tensorflow_stub\dtypes.py:544: FutureWarning: Passing (type, 1) or '1type' as a synonym of type is deprecated; in a future version of numpy, it will be understood as (type, (1,)) / '(1,)type'.
+  _np_quint16 = np.dtype([("quint16", np.uint16, 1)])
+D:\Anaconda3\envs\tf14_gpu\lib\site-packages\tensorboard\compat\tensorflow_stub\dtypes.py:545: FutureWarning: Passing (type, 1) or '1type' as a synonym of type is deprecated; in a future version of numpy, it will be understood as (type, (1,)) / '(1,)type'.
+  _np_qint32 = np.dtype([("qint32", np.int32, 1)])
+D:\Anaconda3\envs\tf14_gpu\lib\site-packages\tensorboard\compat\tensorflow_stub\dtypes.py:550: FutureWarning: Passing (type, 1) or '1type' as a synonym of type is deprecated; in a future version of numpy, it will be understood as (type, (1,)) / '(1,)type'.
+  np_resource = np.dtype([("resource", np.ubyte, 1)])
+WARNING: Logging before flag parsing goes to stderr.
+W1021 11:43:42.487376  6228 deprecation_wrapper.py:119] From E:\my_code\预训练语言模型（包括词向量）\roberta_zh-master\optimization.py:116: The name tf.train.Optimizer is deprecated. Please use tf.compat.v1.train.Optimizer instead.
+
+W1021 11:43:42.487376  6228 deprecation_wrapper.py:119] From run_pretraining.py:498: The name tf.app.run is deprecated. Please use tf.compat.v1.app.run instead.
+
+W1021 11:43:42.490364  6228 deprecation_wrapper.py:119] From run_pretraining.py:409: The name tf.logging.set_verbosity is deprecated. Please use tf.compat.v1.logging.set_verbosity instead.
+
+W1021 11:43:42.490364  6228 deprecation_wrapper.py:119] From run_pretraining.py:409: The name tf.logging.INFO is deprecated. Please use tf.compat.v1.logging.INFO instead.
+
+W1021 11:43:42.490364  6228 deprecation_wrapper.py:119] From E:\my_code\预训练语言模型（包括词向量）\roberta_zh-master\modeling.py:93: The name tf.gfile.GFile is deprecated. Please use tf.io.gfile.GFile instead.
+
+W1021 11:43:42.491361  6228 deprecation_wrapper.py:119] From run_pretraining.py:416: The name tf.gfile.MakeDirs is deprecated. Please use tf.io.gfile.makedirs instead.
+
+W1021 11:43:42.491361  6228 deprecation_wrapper.py:119] From run_pretraining.py:420: The name tf.gfile.Glob is deprecated. Please use tf.io.gfile.glob instead.
+
+W1021 11:43:42.492359  6228 deprecation_wrapper.py:119] From run_pretraining.py:422: The name tf.logging.info is deprecated. Please use tf.compat.v1.logging.info instead.
+
+I1021 11:43:42.492359  6228 run_pretraining.py:422] *** Input Files ***
+I1021 11:43:42.492359  6228 run_pretraining.py:424]   .\tf_records_all\tf_news2016zh_1.tfrecord
+I1021 11:43:42.492359  6228 run_pretraining.py:424]   .\tf_records_all\tf_news2016zh_2.tfrecord
+W1021 11:43:43.411903  6228 lazy_loader.py:50] 
+The TensorFlow contrib module will not be included in TensorFlow 2.0.
+For more information, please see:
+  * https://github.com/tensorflow/community/blob/master/rfcs/20180907-contrib-sunset.md
+  * https://github.com/tensorflow/addons
+  * https://github.com/tensorflow/io (for I/O related ops)
+If you depend on functionality not listed there, please file an issue.
+
+Traceback (most recent call last):
+  File "run_pretraining.py", line 498, in <module>
+    tf.app.run()
+  File "D:\Anaconda3\envs\tf14_gpu\lib\site-packages\tensorflow\python\platform\app.py", line 40, in run
+    _run(main=main, argv=argv, flags_parser=_parse_flags_tolerate_undef)
+  File "C:\Users\ADMIN\AppData\Roaming\Python\Python36\site-packages\absl\app.py", line 300, in run
+    _run_main(main, args)
+  File "C:\Users\ADMIN\AppData\Roaming\Python\Python36\site-packages\absl\app.py", line 251, in _run_main
+    sys.exit(main(argv))
+  File "run_pretraining.py", line 429, in main
+    tpu=FLAGS.tpu_name, zone=FLAGS.tpu_zone, project=FLAGS.gcp_project)
+  File "D:\Anaconda3\envs\tf14_gpu\lib\site-packages\tensorflow\python\distribute\cluster_resolver\tpu_cluster_resolver.py", line 258, in __init__
+    raise ValueError('Please provide a TPU Name to connect to.')
+ValueError: Please provide a TPU Name to connect to.

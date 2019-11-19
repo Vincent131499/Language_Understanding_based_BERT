@@ -1,0 +1,25 @@
+***** Eval results albert_tiny_lcqmc_checkpoints\model.ckpt-11000 *****
+eval_accuracy = 0.8241109
+eval_loss = 0.44271076
+global_step = 11000
+loss = 0.44236454
+***** Eval results albert_tiny_lcqmc_checkpoints\model.ckpt-12000 *****
+eval_accuracy = 0.83308715
+eval_loss = 0.4343615
+global_step = 12000
+loss = 0.43402833
+***** Eval results albert_tiny_lcqmc_checkpoints\model.ckpt-13000 *****
+eval_accuracy = 0.84001815
+eval_loss = 0.4113592
+global_step = 13000
+loss = 0.4110408
+***** Eval results albert_tiny_lcqmc_checkpoints\model.ckpt-14000 *****
+eval_accuracy = 0.8362686
+eval_loss = 0.43530014
+global_step = 14000
+loss = 0.43496084
+***** Eval results albert_tiny_lcqmc_checkpoints\model.ckpt-14922 *****
+eval_accuracy = 0.83513236
+eval_loss = 0.43506217
+global_step = 14922
+loss = 0.43472394
